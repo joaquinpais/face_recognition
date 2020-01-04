@@ -1,5 +1,8 @@
 # Memory Glasses
 
+The Memory Glasses is part of Pais Figueroa Family Tecnovation 2020. The project goal is help Alzeheimer's patient recognize their family and friends using glasses with Raspberry PI and python.
+
+The source code installed in the Raspberry PI is a fork from Adam Geitgey facial recognition repository.
 
 #### Identify faces in pictures
 
