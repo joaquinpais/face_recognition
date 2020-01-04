@@ -5,7 +5,6 @@
 
 Recognize who appears in each photo.
 
-![](https://cloud.githubusercontent.com/assets/896692/23625229/45e049b6-025d-11e7-89cc-8a71cf89e713.png)
 
 ```python
 import face_recognition
